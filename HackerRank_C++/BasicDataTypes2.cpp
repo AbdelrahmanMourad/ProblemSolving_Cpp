@@ -90,7 +90,7 @@ int main() {
     // char characterNum;
     // float floatNum;
     // double doubleNum;
-    int a; long b; char c; float d; double e;     
+    int a; long b; char c;  float d; double e;     
     
     // std::cin >> integerNum 
     //          >> longNum 
